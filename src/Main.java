@@ -41,7 +41,7 @@ public class Main {
                     System.out.print("Ingrese la altura del triángulo: ");
                     Tri1.setAltura(lectura.nextDouble());
                     System.out.print("Ingrese el lado 1 del triángulo: ");
-                    Tri1.setAltura(lectura.nextDouble());
+                    Tri1.setLado1(lectura.nextDouble());
                     System.out.print("Ingrese el lado 2 del triángulo: ");
                     Tri1.setLado2(lectura.nextDouble());
                     System.out.print("Ingrese el lado 3 del triángulo: ");
